@@ -1,4 +1,7 @@
 # "Operation Delta" search and withdrawal level design dismantling
+> Language / 语言：[中文](README.md) | English
+>
+> GitHub Reading Notes: this repository keeps the complete Chinese report, the complete English report, and all local image assets. `过程记录.md` is a local work log only and is intentionally excluded from GitHub.
 
 ## 1. Let’s talk about the conclusion first: what exactly is this type of level designed?
 
