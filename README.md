@@ -1,7 +1,17 @@
-# 《三角洲行动》搜打撤关卡设计拆解
+# Delta Force Extraction Map Design：《三角洲行动》0号大坝、长弓溪谷、航天基地拆解
 > 语言 / Language：中文 | [English](README.en.md)
 >
 > GitHub 阅读说明：本仓库保留完整中文版报告、完整英文版报告和全部本地图片资产；`过程记录.md` 仅作本地工作日志，已按要求排除，不会上传到 GitHub。
+
+> 一句话：从《三角洲行动》三张代表地图拆出撤离射击关卡的资源吸力、门线、PvE 摩擦和撤离压力。
+>
+> 适合谁：FPS 关卡设计师、PvPvE / 搜打撤项目组、系统策划、地图策划、游戏分析作者。
+>
+> 为什么值得 Star：这不是点位攻略，而是一份能迁移到自研项目的地图结构拆解；读完可以直接拿它检查资源层、入口、撤离点、PvE 与武器工作面。
+>
+> 同系列： [Gameplay Matrix 工具包](https://github.com/momowangOUO/level-design-gameplay-matrix-spatial-iteration) / [生存本能与空间心理](https://github.com/momowangOUO/better-level-design-survival-instinct-space-psychology) / [搜打撤白皮书](https://github.com/momowangOUO/extraction-shooter-map-level-design-whitepaper) / [Eternal Return Lumia Island](https://github.com/momowangOUO/eternal-return-lumia-island-level-design-study)
+>
+> 想分享这份资料：可直接使用 [SHARE.md](SHARE.md) 里的中英文文案。
 
 ## 1. 先说结论：这类关卡到底在设计什么
 
