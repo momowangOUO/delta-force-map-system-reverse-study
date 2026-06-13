@@ -7,6 +7,8 @@
 >
 > Reading value: this is not a loot-route guide; it is a transferable map-structure breakdown for resource gravity, entrances, extraction pressure, PvE friction, and weapon workspaces.
 >
+> Author: 魔魔王; version: v1.0; publication date: 2026-06-13.
+>
 > Reading entry: this page is the complete English edition; use [INDEX.en.md](INDEX.en.md) for the compact index.
 
 ## Key Takeaways
@@ -508,6 +510,8 @@ The table below lists the local image files used in the text and what each one s
 | 3DM mobile game "Delta Operation Dam Zero Map Introduction" | https://shouyou.3dmgame.com/gl/576503.html | Refer to the No. 0 Dam map, point locations and basic POI relationships |
 | 3DM online game "Delta Operation Longbow Valley Map Introduction" | https://ol.3dmgame.com/gl/278859.html | Refer to the Longbow Valley bottom map, resource layer, highland and radar station relationship. |
 | 3DM online game "Delta Operation Space Base Map Introduction" | https://ol.3dmgame.com/gl/278858.html | Refer to the space relationship between space base area, resource layer and core area. |
+| Delta Force Official Map Tool | https://www.playdeltaforce.com/en/maps.html | Review current-version maps, positions, and extraction information; exact positions should follow the official tool and current patch context. |
+| Zero Dam - Reshaped official dev note | https://www.playdeltaforce.com/en/detail/news-zero-dam-reshaped-a-dev-note-for-operators-heading-in.html | Evidence that Season Echo changed Zero Dam structure and player routes. |
 | Delta Force Maps | https://www.deltaforcemaps.com/ | Serves as a cross-checking source for map locations, evacuation and resource information |
 | "Operation Delta" encyclopedia information | https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8 | Reference game modes, operator types and basic gameplay cycle descriptions |
 | CharlieIntel《All Delta Force operators and abilities》 | https://www.charlieintel.com/games/delta-force-hawk-ops-operators-335039/ | Cross-check the professional ability descriptions of D-Wolf/Red Wolf, Luna/Golden Luna, Stinger/Bee Doctor, Shepherd/Shepherd, and Vyron/Weilong |

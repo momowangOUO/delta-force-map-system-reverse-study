@@ -7,6 +7,8 @@
 >
 > 阅读价值：这不是点位攻略，而是一份能迁移到自研项目的地图结构拆解；读完可以直接拿它检查资源层、入口、撤离点、PvE 与武器工作面。
 >
+> 作者：魔魔王；版本：v1.0；发布日期：2026-06-13。
+>
 > 阅读入口：此页为完整报告；轻量索引见 [INDEX.md](INDEX.md)，中文正文源文件见 [报告.md](报告.md)。
 
 ## 关键结论
@@ -508,6 +510,8 @@ PvE 在搜打撤里至少有四种功能：
 | 3DM 手游《三角洲行动零号大坝地图介绍》 | https://shouyou.3dmgame.com/gl/576503.html | 参考 0号大坝地图、点位和基础 POI 关系 |
 | 3DM 网游《三角洲行动长弓溪谷地图介绍》 | https://ol.3dmgame.com/gl/278859.html | 参考长弓溪谷底图、资源层、高地与雷达站关系 |
 | 3DM 网游《三角洲行动航天基地地图介绍》 | https://ol.3dmgame.com/gl/278858.html | 参考航天基地区域、资源层、核心区空间关系 |
+| Delta Force 官方地图工具 | https://www.playdeltaforce.com/en/maps.html | 复核当前版本地图、点位和撤离信息；具体点位以官方工具和当期版本为准 |
+| Zero Dam - Reshaped 官方开发说明 | https://www.playdeltaforce.com/en/detail/news-zero-dam-reshaped-a-dev-note-for-operators-heading-in.html | 作为 2026 Season Echo 对 0号大坝地图结构与玩家动线进行调整的版本证据 |
 | Delta Force Maps | https://www.deltaforcemaps.com/ | 作为地图点位、撤离与资源信息的交叉核对来源 |
 | 《三角洲行动》百科资料 | https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8 | 参考游戏模式、干员兵种与基础玩法循环描述 |
 | CharlieIntel《All Delta Force operators and abilities》 | https://www.charlieintel.com/games/delta-force-hawk-ops-operators-335039/ | 交叉核对 D-Wolf/红狼、Luna/金卢娜、Stinger/蜂医、Shepherd/牧羊人、Vyron/威龙的职业能力描述 |

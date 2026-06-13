@@ -2,6 +2,12 @@
 
 This repository contains one complete report. The README is the full GitHub-reading edition; `报告.md` keeps the same Chinese source for reuse, citation, or local reading.
 
+## Metadata
+
+- Author: 魔魔王
+- Version: v1.0
+- Publication date: 2026-06-13
+
 | Report | One-line description | Topics | Best for | Updated | Read |
 |---|---|---|---|---|---|
 | Delta Force Extraction Map Design Study: Zero Dam, Longbow Valley, Space Base | Studies how three Delta Force maps organize resource gravity, doorway pressure, PvE friction, and extraction risk. | Extraction shooters, map structure, POI, door lines, resource risk, extraction points | FPS level designers, PvPvE teams, systems designers, map designers, game-analysis writers | 2026-06-13 | [README.en.md](README.en.md) / [中文](README.md) |
@@ -17,11 +23,11 @@ This report uses public-facing map and gameplay material plus local explanatory 
 
 ## How To Cite
 
-Suggested citation: `Delta Force Extraction Map Design Study: Zero Dam, Longbow Valley, Space Base, GitHub repository, accessed YYYY-MM-DD.`
+Suggested citation: `魔魔王. Delta Force Extraction Map Design Study: Zero Dam, Longbow Valley, Space Base. Version 1.0. GitHub repository, 2026-06-13. Accessed YYYY-MM-DD.`
 
-TODO: add maintainer-approved author name, version number, and publication date for formal citation.
+## Review Status
 
-## Needs Human Confirmation
-
-- Map details can change by version; resource points, AI positions, and extraction rules need review against the current build.
+- Confirmed: author, version, publication date, and citation format have been filled in.
+- Reviewed: the official Map Tool and the 2026 Season Echo / Zero Dam reshaping note both show that map information can change by version; this report does not freeze resource points, AI positions, or extraction rules as permanent facts.
+- Before using this report for current-version position calls, verify resource points, AI positions, and extraction conditions against the official Map Tool or the current patch notes.
 - Design readings are structural analysis, not official design intent.
