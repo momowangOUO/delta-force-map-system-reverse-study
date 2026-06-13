@@ -5,9 +5,16 @@
 >
 > For: FPS level designers, PvPvE / extraction-shooter teams, systems designers, map designers, and game-analysis writers.
 >
-> Why star it: this is not a loot-route guide; it is a transferable map-structure breakdown for resource gravity, entrances, extraction pressure, PvE friction, and weapon workspaces.
+> Reading value: this is not a loot-route guide; it is a transferable map-structure breakdown for resource gravity, entrances, extraction pressure, PvE friction, and weapon workspaces.
 >
-> Want to share it: use the ready-to-copy posts in [SHARE.md](SHARE.md).
+> Reading entry: this page is the complete English edition; use [INDEX.en.md](INDEX.en.md) for the compact index.
+
+## Key Takeaways
+
+- An extraction map is first an in-match economic machine: resource pull, route risk, encounter uncertainty, and extraction payout have to be designed together.
+- Zero Dam is useful because of its door lines, indoor/outdoor switches, and central pull; it shows how to make players see danger and still want to enter.
+- Longbow Valley and Space Base are not just different sizes. They model different costs through elevation, cross-zone movement, core black-box pressure, and heavy PvE friction.
+- This report is structural analysis from public material; it is not an optimal route guide, a position guide, or a claim about official design intent.
 
 ## 1. Let’s talk about the conclusion first: what exactly is this type of level designed?
 

@@ -1,0 +1,27 @@
+# Report Index
+
+This repository contains one complete report. The README is the full GitHub-reading edition; `报告.md` keeps the same Chinese source for reuse, citation, or local reading.
+
+| Report | One-line description | Topics | Best for | Updated | Read |
+|---|---|---|---|---|---|
+| Delta Force Extraction Map Design Study: Zero Dam, Longbow Valley, Space Base | Studies how three Delta Force maps organize resource gravity, doorway pressure, PvE friction, and extraction risk. | Extraction shooters, map structure, POI, door lines, resource risk, extraction points | FPS level designers, PvPvE teams, systems designers, map designers, game-analysis writers | 2026-06-13 | [README.en.md](README.en.md) / [中文](README.md) |
+
+## Method And Scope
+
+This report uses public-facing map and gameplay material plus local explanatory diagrams. It focuses on level-design structure, not loot-route advice, optimal pathing, or balance ranking.
+
+## Reusable Lines
+
+- An extraction map is first an in-match economic machine.
+- Resource pull, route risk, encounter uncertainty, and extraction payout have to be designed together.
+
+## How To Cite
+
+Suggested citation: `Delta Force Extraction Map Design Study: Zero Dam, Longbow Valley, Space Base, GitHub repository, accessed YYYY-MM-DD.`
+
+TODO: add maintainer-approved author name, version number, and publication date for formal citation.
+
+## Needs Human Confirmation
+
+- Map details can change by version; resource points, AI positions, and extraction rules need review against the current build.
+- Design readings are structural analysis, not official design intent.
