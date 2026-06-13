@@ -451,11 +451,15 @@ Design checklist:
 
 ## 5. Information and references
 
+This section collects the data boundary, local image assets, and external references in one place. Captions in the main text explain how to read each figure; source links and asset notes live here for readers who want to verify them.
+
 ### data boundaries
 
 This article only uses content that can be traced to real maps, real screenshots, real gameplay rules or verifiable information. "Death heat maps", "accurate fatality rates" and "official internal route data" that cannot be stably traced are not used. The judgments in this article about the pressure zone, suction zone, evacuation window and player behavior are design deductions based on the map structure, resource layer, PvE function and search, attack and withdrawal rules.
 
-### Local image assets
+### Figure Reading Notes And Local Assets
+
+The table below lists the local image files used in the text and what each one supports. The figures help readers understand resources, routes, extraction pressure, and spatial interfaces; precise scale, refresh rates, death distribution, or official values should still be checked against the written analysis and external sources.
 
 | local assets | use | Processing Instructions |
 |---|---|---|
