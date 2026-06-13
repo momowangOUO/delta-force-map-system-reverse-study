@@ -1,15 +1,11 @@
 # Delta Force Extraction Map Design Study: Zero Dam, Longbow Valley, Space Base
 > Language / 语言：[中文](README.md) | English
 >
-> GitHub Reading Notes: this repository keeps the complete Chinese report, the complete English report, and all local image assets. `过程记录.md` is a local work log only and is intentionally excluded from GitHub.
-
 > One-line pitch: extract reusable extraction-shooter map lessons from Delta Force's Zero Dam, Longbow Valley, and Space Base.
 >
 > For: FPS level designers, PvPvE / extraction-shooter teams, systems designers, map designers, and game-analysis writers.
 >
 > Why star it: this is not a loot-route guide; it is a transferable map-structure breakdown for resource gravity, entrances, extraction pressure, PvE friction, and weapon workspaces.
->
-> Related repos: [Gameplay Matrix Toolkit](https://github.com/momowangOUO/level-design-gameplay-matrix-spatial-iteration) / [Survival Instinct And Spatial Psychology](https://github.com/momowangOUO/better-level-design-survival-instinct-space-psychology) / [Extraction Shooter Whitepaper](https://github.com/momowangOUO/extraction-shooter-map-level-design-whitepaper) / [Eternal Return Lumia Island](https://github.com/momowangOUO/eternal-return-lumia-island-level-design-study)
 >
 > Want to share it: use the ready-to-copy posts in [SHARE.md](SHARE.md).
 
