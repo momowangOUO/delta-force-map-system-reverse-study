@@ -2,7 +2,7 @@
 
 ## 中文短帖
 
-搜打撤地图不是“大地图”，是会吞装备的风险机器。
+搜打撤地图不能只做得大。它要用资源、敌人和撤离点，让玩家反复判断：继续贪，还是带着收益走。
 
 我拆了一遍《三角洲行动》的 0号大坝、长弓溪谷和航天基地：资源为什么会把人吸进危险区，门线为什么会让人犹豫，PvE 为什么不是填充物，撤离点为什么更像最后一场考试。
 
@@ -27,7 +27,7 @@ GitHub: https://github.com/momowangOUO/delta-force-map-system-reverse-study
 
 ## English Short Post
 
-An extraction map is not just a big map. It is a risk machine that can eat your kit.
+An extraction map is not just a big map. It makes players risk their kit every time they chase value.
 
 I broke down Delta Force's Zero Dam, Longbow Valley, and Space Base through resource pull, door-line pressure, PvE friction, extraction payout, and weapon workspaces. This is not a loot-route guide. It is a structural map-design study for FPS / PvPvE designers.
 
