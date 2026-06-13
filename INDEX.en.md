@@ -16,7 +16,7 @@ This repository contains one complete report. The README is the full GitHub-read
 
 This report uses public-facing map and gameplay material plus local explanatory diagrams. It focuses on level-design structure, not loot-route advice, optimal pathing, or balance ranking.
 
-## Reusable Lines
+## Quotable Lines
 
 - An extraction map is first an in-match economic machine.
 - Resource pull, route risk, encounter uncertainty, and extraction payout have to be designed together.

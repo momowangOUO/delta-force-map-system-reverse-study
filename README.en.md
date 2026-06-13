@@ -1,22 +1,26 @@
 # Delta Force Extraction Map Design Study: Zero Dam, Longbow Valley, Space Base
 > Language / 语言：[中文](README.md) | English
 >
-> One-line pitch: extract reusable extraction-shooter map lessons from Delta Force's Zero Dam, Longbow Valley, and Space Base.
+> An extraction map is not just a big map. It is a risk machine that can eat your kit.
 >
-> For: FPS level designers, PvPvE / extraction-shooter teams, systems designers, map designers, and game-analysis writers.
->
-> Reading value: this is not a loot-route guide; it is a transferable map-structure breakdown for resource gravity, entrances, extraction pressure, PvE friction, and weapon workspaces.
+> This study uses Delta Force's Zero Dam, Longbow Valley, and Space Base as three samples for reading resource pull, door-line hesitation, PvE friction, extraction payout, and weapon workspaces.
 >
 > Author: 魔魔王; version: v1.0; publication date: 2026-06-13.
 >
-> Reading entry: this page is the complete English edition; use [INDEX.en.md](INDEX.en.md) for the compact index.
 
-## Key Takeaways
+## The Short Version
 
 - An extraction map is first an in-match economic machine: resource pull, route risk, encounter uncertainty, and extraction payout have to be designed together.
-- Zero Dam is useful because of its door lines, indoor/outdoor switches, and central pull; it shows how to make players see danger and still want to enter.
-- Longbow Valley and Space Base are not just different sizes. They model different costs through elevation, cross-zone movement, core black-box pressure, and heavy PvE friction.
+- Zero Dam is not interesting because of positions alone; it is useful because door lines, indoor/outdoor switches, and central pull make players see danger and still want to enter.
+- Longbow Valley and Space Base are not just bigger maps. They model different costs through elevation, cross-zone movement, core black-box pressure, and heavy PvE friction.
 - This report is structural analysis from public material; it is not an optimal route guide, a position guide, or a claim about official design intent.
+
+## How To Read This Report
+
+- Complete report: keep reading this page.
+- Compact index: [INDEX.en.md](INDEX.en.md).
+- Chinese edition: [README.md](README.md).
+- Evidence boundary: map figures, public material, and source limits are collected near the end.
 
 ## 1. Let’s talk about the conclusion first: what exactly is this type of level designed?
 
